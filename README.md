@@ -1,12 +1,9 @@
 <h1>Olá, bem-vinda ou bem-vindo ao meu perfil 👋</h1>
-<p>Meu nome é Ashiley Santiago, sou desenvolvedora back-end em um e-commerce e sou estudante de Ciência da Computação na Universidade Federal do ABC.</p>
-Eu amo programar desde um Arduino até um sistema complexo que consome várias APIs.<br/>
+<p>Meu nome é Ashiley Santiago, sou analista desenvolvedora e sou estudante de Ciência da Computação na Universidade Federal do ABC.</p>
+Eu amo programar desde um Arduino até uma aplicação complexa que consome várias APIs.<br/>
 Eu também adoro matemática e estatística: Excel VBA, dashboards e Power BI são meus xodós.<br/><br/>
 
-- Atualmente eu tenho trabalhado em um sistema que consome API do Mercado Livre e do Tiny ERP<br/>
-- Faço projetos voltados à automação residencial utilizando ESP32 e Arduino<br/>
-- Estou aprendendo mais sobre a internet e a web<br/>
-- Dicas são bem recebidas aqui<br/>
+- Atualmente eu tenho trabalhado em aplicações React<br/>
 
 ## Contatos
 [![linkedin](https://img.shields.io/badge/LinkedIn-007bb6.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ashiley-santiago/)&nbsp;&nbsp;&nbsp;
