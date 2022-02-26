@@ -15,7 +15,6 @@ Eu também adoro matemática e estatística: Excel VBA, dashboards e Power BI s�
 [![tecnologias](https://img.shields.io/badge/React_JS-007BB6.svg?logo=react&logoColor=white)](https://github.com/AshileySabah)&nbsp;
 [![tecnologias](https://img.shields.io/badge/JS-yellow.svg?logo=javascript&logoColor=white)](https://github.com/AshileySabah)&nbsp;
 [![tecnologias](https://img.shields.io/badge/TS-007BB6.svg?logo=typescript&logoColor=white)](https://github.com/AshileySabah)&nbsp;
-[![tecnologias](https://img.shields.io/badge/Node_JS-green.svg?logo=node_js&logoColor=white)](https://github.com/AshileySabah)&nbsp;
 [![tecnologias](https://img.shields.io/badge/Java-5C5D5E.svg?logo=java&logoColor=white)](https://github.com/AshileySabah)&nbsp;
 [![tecnologias](https://img.shields.io/badge/HTML-EC630B.svg?logo=html5&logoColor=white)](https://github.com/AshileySabah)&nbsp;
 [![tecnologias](https://img.shields.io/badge/CSS-1151F2.svg?logo=css3&logoColor=white)](https://github.com/AshileySabah)
