@@ -1,7 +1,6 @@
 <h1>Hey, welcome to my profile 👋</h1>
 <p>My name is Ashiley Santiago, I'm a developer analyst and a Computer Science student at Universidade Federal do ABC.</p>
-I love programming from an Arduino to a complex application that consumes multiple services.<br/>
-I also love math and statistics: Excel VBA, dashboards and Power BI are my favorites.<br/><br/>
+I love programming from an Arduino to a complex application that consumes multiple services.<br/><br/>
 
 - Currently I've been working on React and React Native applications<br/>
 
