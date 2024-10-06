@@ -1,7 +1,7 @@
 # Hey, welcome to my profile! 👋
 <p align="justify">I'm a <strong>fullstack developer</strong>, with a background in <strong>Industrial Automation</strong> and currently pursuing a degree in <strong>Computer Science</strong> at the Federal University of ABC.</p>
 <p align="justify">I have experience in <strong>front-end</strong> development with <strong>React</strong> and <strong>back-end</strong> with <strong>Node.js</strong>. Lately, I’ve been focusing on learning <strong>Java</strong> to further enhance my back-end development skills.</p>
-<p align="justify">In my free time, I enjoy exploring <strong>new technologies</strong>, creating automations with <strong>ESP32</strong>, and building apps using <string>React Native</string> and <strong>Flutter.</strong></p>
+<p align="justify">In my free time, I enjoy exploring <strong>new technologies</strong>, creating automations with <strong>ESP32</strong>, and building apps using <strong>React Native</strong> and <strong>Flutter.</strong></p>
 
 ## Contacts
 [![linkedin](https://img.shields.io/badge/LinkedIn-007bb6.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ashiley-santiago/)&nbsp;&nbsp;&nbsp;
