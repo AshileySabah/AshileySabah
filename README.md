@@ -1,9 +1,9 @@
-# Hi there, I'm Ashiley Santiago 👋
-Full-stack developer with 5+ years of experience
+## Hi there, I'm Ashiley Santiago 👋
+Full-stack developer with **5+ years** of experience
 
-Building solutions for government, logistics, e-commerce, and enterprise environments
+Building solutions for **government**, **logistics**, **e-commerce**, and **enterprise** environments
 
-Experienced in international projects, squad leadership, and end-to-end development — from requirements to frontend, backend, and deployment.
+Experienced in **international projects**, squad leadership, and **end-to-end development** — from requirements to **frontend**, **backend**, and **deployment**.
 
 
 ## 🛠️ Tech Stack
