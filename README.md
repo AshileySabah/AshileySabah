@@ -11,7 +11,7 @@ Experienced in international projects, squad leadership, and end-to-end developm
 React · Next.js · Angular · Flutter · JavaScript · TypeScript
 
 **Backend**  
-Node · Nest.js · Fastify · Express · ORM (Prisma, Type, Sequelize) · PHP · Laravel · Java · Spring Boot
+Node · Nest.js · Fastify · Express · ORM (Prisma, Type, Sequelize) · PHP · Laravel · Java · Spring Boot · RabbitMQ 
 
 **Databases & Cashing**  
 PostgreSQL · MySQL · MongoDB · Redis
@@ -25,7 +25,7 @@ Storybook · Swagger
 **Architecture & System Design**  
 CSR · SSR · SSG · Monolithic · Microservices · Domain-Driven Design · Event-Driven Architecture · API Versioning
 
-**Solutions & Integrations**
+**Solutions & Integrations**  
 Firebase · TensorFlow · JWT · RBAC · OAuth · ERP Integration · GOV.BR Integration
 
 
@@ -38,12 +38,13 @@ Firebase · TensorFlow · JWT · RBAC · OAuth · ERP Integration · GOV.BR Inte
 - **Medicine Delivery App** - Developed a mobile app that identifies required medicines, locates nearby government‑affiliated pharmacies, and coordinates delivery to users.
 
 
-## 🎓 Education & Languages
+## 🎓 Education
 - **Associate’s in Systems Analysis and Development** – State College of Technology - Ipiranga
 - **Bachelor’s in Science and Technology** – Federal University of ABC
 
+## 🗣️ Languages
 - **English** – Advanced (C1)  
 - **Portuguese** – Native
 
 ## 📫 Let’s connect
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your.email@example.com) · [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/ashiley-santiago/) · [Email](mailto:ashiley.santiago.r@example.com) · [Portfolio](https://www.ashileysantiago.com.br/)
